@@ -17,7 +17,7 @@ namespace TodoApi
 {
     public class Startup
     {
-        public Startup(IConfiguration configuration) s
+        public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
         }
